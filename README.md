@@ -1,5 +1,3 @@
-![스크린샷 2023-11-27 100657](https://github.com/KKANGII/Fooding/assets/149052781/6d28f33e-b0dd-42b2-9079-1bc7b21ae6b6)
-
 # 1st Team Project - Fooding
 **1차 팀 프로젝트**
 
