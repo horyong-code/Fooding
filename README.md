@@ -10,3 +10,4 @@
 - **Code Tools** : <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
 - **Front-end** : <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/BootStrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
 - **접속 주소** : http://c7d2307t2.itwillbs.com/Project_Foodtruck/FtMainAction.man
+- **QR코드 접속**<br>![Fooding](https://github.com/horyong-code/Fooding/assets/149052781/35f10d83-b1b1-4f0d-a62e-9c4e5c3b3e10)
